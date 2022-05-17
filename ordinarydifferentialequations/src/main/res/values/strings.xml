@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ordinary Differential Equations</string>
+    <string name="save_button">Save page</string>
+    <string name="saved_pages">Saved pages</string>
+    <string name="error_connection">Can\'t connect to network,try again</string>
+    <string name="retry">Retry</string>
+    <string name="hint">For example,21-var. 13-question</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="give_name">Give name for this page,for easy understand</string>
+    <string name="give_correct_name">Give correct name for file</string>
+    <string name="page_not_loaded">Page not fully laoded yet</string>
+</resources>

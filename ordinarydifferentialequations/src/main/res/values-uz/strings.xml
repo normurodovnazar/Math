@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oddiy differensial tenglamalar</string>
+    <string name="save_button">Sahifani saqlash</string>
+    <string name="saved_pages">Saqlangan sahifalar</string>
+    <string name="error_connection">Tarmoqqa ulanib bo\'lmadi,qayta urinib ko\'ring</string>
+    <string name="retry">Qayta urinish</string>
+    <string name="hint">Masalan,21-var. 13-savol</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="give_name">Bu sahifaga o\'zingizga tushunarli bo\'lgan nom bering.</string>
+    <string name="give_correct_name">Faylga tog\'ri nom bering</string>
+    <string name="page_not_loaded">Sahifa hali to\'liq yuklanmadi</string>
+</resources>
